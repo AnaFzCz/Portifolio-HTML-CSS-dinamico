@@ -18,13 +18,7 @@ body {
 
 .cabecalho {
     padding: 2% 0% 0% 15%;
-}
 
-.cabecalho__menu {
-    display: flex;
-    gap: 80px;
-    /* justify-content: center;
-    align-items: center; */
 }
 
 .cabecalho__menu__link {
@@ -33,10 +27,16 @@ body {
     color: #22D4FD;
     font-weight: 600;
 
-
+    margin: 0 10px;
+   text-decoration: none;
 }
 
-
+.cabecalho__menu {
+    display: flex;
+    gap: 80%;
+    justify-content: center;
+    align-items: center;
+}
 
 /* .cabecalho__menu__link:hover {
     color: #007bff;
@@ -49,7 +49,7 @@ body {
 } */
 
 .apresentacao {
-    padding: 5% 15%;
+    padding: 8% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;

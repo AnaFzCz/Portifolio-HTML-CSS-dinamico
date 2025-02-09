@@ -16,40 +16,31 @@ body {
     color: #22D4FD;
 }
 
-.cabecalho {
-    padding: 2% 0% 0% 15%;
+
+.cabecalho__menu__link {
+    font-size: 18px;
+    color: #333;
+    margin: 0 10px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.cabecalho__menu__link:hover {
+    color: #007bff;
 }
 
 .cabecalho__menu {
     display: flex;
-    gap: 80px;
-    /* justify-content: center;
-    align-items: center; */
+    justify-content: center;
+    align-items: center;
 }
-
-.cabecalho__menu__link {
-    font-size: 24px;
-    font-family: 'Montserrat', sans-serif;
-    color: #22D4FD;
-    font-weight: 600;
-
-
-}
-
-
-
-/* .cabecalho__menu__link:hover {
-    color: #007bff;
-}
-
-
 
 .cabecalho__menu__link {
     padding: 10px 15px;
-} */
+}
 
 .apresentacao {
-    padding: 5% 15%;
+    padding: 8% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
