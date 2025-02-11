@@ -1,15 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 
-:root {
-    --cor-primaria: #574964;
-    --cor-secundaria: #FFDAB3;
-    --cor-terciaria: #C8AAAA;
-    --cor-hover: #9F8383;
-    --font-primaria: 'Krona One', sans-serif;
-    --font-secundaria: 'Montserrat', sans-serif;
-
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -18,16 +8,16 @@
 body {
     /* height: 100vh; */
     box-sizing: border-box;
-    background-color: var(--cor-primaria);
-    color: var(--cor-secundaria);
+    background-color: #000000;
+    color: #F6F6F6;
 }
 
 .titulo-destaque {
-    color: var(--cor-terciaria);
+    color: #22D4FD;
 }
 
 .cabecalho {
-    background-color: var(--cor-primaria);
+    background-color: #000000;
     padding: 2% 0% 0% 15%;
     position: fixed;
 
@@ -42,8 +32,8 @@ body {
 
 .cabecalho__menu__link {
     font-size: 24px;
-    font-family: var(--font-secundaria);
-    color: var(--cor-terciaria);
+    font-family: 'Montserrat', sans-serif;
+    color: #22D4FD;
     font-weight: 600;
     text-decoration: none;
 }
@@ -76,12 +66,12 @@ body {
 
 .apresentacao__conteudo__titulo {
     font-size: 36px;
-    font-family: var(--font-primaria);
+    font-family: 'Krona One', sans-serif;
 }
 
 .apresentacao__conteudo__texto {
     font-size: 24px;
-    font-family: var(--font-secundaria);
+    font-family: 'Montserrat', sans-serif;
 }
 
 .apresentacao__links {
@@ -103,7 +93,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 16px;
-    border: 2px solid var(--cor-terciaria);
+    border: 2px solid #22D4FD;
     width: 378px;
     text-align: center;
     border-radius: 8px;
@@ -111,14 +101,14 @@ body {
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
-    color: var(--cor-secundaria);
-    font-family: var(--font-secundaria);
+    color: #F6F6F6;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .apresentacao__links__link:hover {
     cursor: pointer;
-    background-color: var(--cor-hover);
-    /* border: 2px solid #0000FF; */
+    background-color: #272727;
+    border: 2px solid #0000FF;
 }
 
 ul {
@@ -126,17 +116,17 @@ ul {
 }
 
 img {
-    border-radius: 5%;
+    border-radius: 15%;
     padding-left: 3%;
 
 }
 
 .rodape {
     padding: 24px;
-    color: var(--cor-primaria);
-    background-color: var(--cor-terciaria);
+    color: #000000;
+    background-color: #22D4FD;
     text-align: center;
-    font-family: var(--font-secundaria);
+    font-family: 'Montserrat', sans-serif;
     font-size: 24px;
     font-weight: 400;
 }
