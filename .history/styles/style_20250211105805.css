@@ -127,7 +127,7 @@ ul {
 
 
 .apresentacao__imgem {
-    width: 40%;
+    width: 50%;
     border-radius: 5%;
 }
 
@@ -143,11 +143,7 @@ ul {
 
 @media(max-width:1200px) {
     .cabecalho {
-        padding: 10%;
-    }
-
-    .cabecalho__menu {
-        justify-content: center;
+        padding: 10%
     }
 
     .apresentacao {
