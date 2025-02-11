@@ -8,7 +8,10 @@
 
 Mi Portafolio, una presentación en donde la página web responsive, puede adaptarse a la pantalla de acuerdo a condicionales donde utilizamos @media en CSS ques es una regla utilizada para crear diseños responsivos.
 
-![AmigoSecreto](https://github.com/AnaFzCz/challenge-amigo-secreto/blob/main/ChallengueAmigoSecreto.png)
+![Img1](https://github.com/AnaFzCz/Portifolio-HTML-CSS-dinamico/blob/main/portafolioHome.png)
+![Img2](https://github.com/AnaFzCz/Portifolio-HTML-CSS-dinamico/blob/main/portafolioSobreMim.png)
+![Img3](https://github.com/AnaFzCz/Portifolio-HTML-CSS-dinamico/blob/main/portafolioHomeResponsive.png)
+![Img4](https://github.com/AnaFzCz/Portifolio-HTML-CSS-dinamico/blob/main/portafolioSobreMimResponsive.png)
 
 ## [Funcionalidades e Demonstração da Aplicação](#tecnologias-utilizadas) 🔨
 
@@ -27,7 +30,9 @@ Mi Portafolio, una presentación en donde la página web responsive, puede adapt
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
           
-      
+- ``CSS``
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+           
 
 ## [Conclusão](#conclusão)  ☑️
 
