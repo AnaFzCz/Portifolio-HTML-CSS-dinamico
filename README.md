@@ -19,6 +19,10 @@ Meu Portfólio, uma apresentação onde a página web responsiva pode se adaptar
 - `Funcionalidade 2`: A página é responsiva.
 - `Funcionalidade 3`: Adaptável aos parâmetros de aparência personalizada através de variáveis globais.
 
+## [Acesso ao Projeto](#acesso) 🚪
+
+Ingresa al siguiente link: https://portafolio-r5waknml6-ana-fernandezs-projects.vercel.app/
+
  
 ## [Tecnologias utilizadas](#tecnologias-utilizadas) 💻
 
