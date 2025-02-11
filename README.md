@@ -1,4 +1,4 @@
-## Portafolio HTML Y CSS DINAMICO
+## Portafolio Ana Fernandez / HTML Y CSS DINAMICO
 
 
 ![LISTO](http://img.shields.io/static/v1?label=STATUS&message=%20LISTO&color=GREEN&style=for-the-badge)
@@ -6,7 +6,7 @@
 
 ## [Descrição do Projeto](#descrição-do-projeto) ✈️
 
-Mi Portafolio, una presentación en donde la página web responsive, puede adaptarse a la pantalla de acuerdo a condicionales donde utilizamos @media en CSS ques es una regla utilizada para crear diseños responsivos.
+Meu Portfólio, uma apresentação onde a página web responsiva pode se adaptar à tela de acordo com condicionais, utilizando @media no CSS, que é uma regra usada para criar designs responsivos.
 
 ![Img1](https://github.com/AnaFzCz/Portifolio-HTML-CSS-dinamico/blob/main/portafolioHome.png)
 ![Img2](https://github.com/AnaFzCz/Portifolio-HTML-CSS-dinamico/blob/main/portafolioSobreMim.png)
@@ -15,9 +15,9 @@ Mi Portafolio, una presentación en donde la página web responsive, puede adapt
 
 ## [Funcionalidades e Demonstração da Aplicação](#tecnologias-utilizadas) 🔨
 
-- `Funcionalidade 1`: Muestra información relevante de la persona.
-- `Funcionalidade 2`: la Página es responsive
-- `Funcionalidade 3`: Adaptable al tipo de parametros de apariencia personalizada bajo variables globales.
+- `Funcionalidade 1`: Mostra informações relevantes sobre a pessoa.
+- `Funcionalidade 2`: A página é responsiva.
+- `Funcionalidade 3`: Adaptável aos parâmetros de aparência personalizada através de variáveis globais.
 
  
 ## [Tecnologias utilizadas](#tecnologias-utilizadas) 💻
@@ -31,10 +31,11 @@ Mi Portafolio, una presentación en donde la página web responsive, puede adapt
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
           
 - ``CSS``
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
            
 
 ## [Conclusão](#conclusão)  ☑️
 
-El proyecto muestra la versatilidad de las varibles globales en CSS dando como resultado una personalidad particular, así también la misma es responsive adaptandose al dispositivo en el que debee visualizarse.
+ projeto demonstra a versatilidade das variáveis globais no CSS, resultando em uma identidade visual única. Além disso, é responsivo, adaptando-se ao dispositivo em que é exibido.
 
