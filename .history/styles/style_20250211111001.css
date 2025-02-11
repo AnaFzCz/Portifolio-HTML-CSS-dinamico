@@ -156,7 +156,7 @@ ul {
     }
 
     .apresentacao__conteudo{
-        width: auto;
+        width: 0;
     }
 
 }
